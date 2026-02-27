@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker Pro",
+  "description": "A transaction record app with calculator, list view, and reporting features.",
+  "requestFramePermissions": []
+}

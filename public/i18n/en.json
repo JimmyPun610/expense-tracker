@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "Expense Tracker Pro"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "form": {
+    "amount": "Amount",
+    "category": "Category",
+    "remark": "Remark",
+    "date": "Date",
+    "type": "Type",
+    "income": "Income",
+    "expense": "Expense",
+    "save": "Save Transaction",
+    "other_category": "Other Category",
+    "scan_receipt": "Scan Receipt",
+    "scanning": "Scanning...",
+    "scan_error": "Failed to scan receipt"
+  },
+  "categories": {
+    "food": "Food & Dining",
+    "transport": "Transportation",
+    "shopping": "Shopping",
+    "bills": "Bills & Utilities",
+    "entertainment": "Entertainment",
+    "salary": "Salary",
+    "other": "Other"
+  },
+  "calculator": {
+    "title": "Calculator",
+    "clear": "C",
+    "equals": "="
+  },
+  "list": {
+    "title": "Recent Transactions",
+    "empty": "No transactions found."
+  },
+  "report": {
+    "title": "Reports",
+    "current_month": "Current Month",
+    "total_expense": "Total Expense",
+    "total_income": "Total Income",
+    "balance": "Balance",
+    "vs_last_month": "vs last month",
+    "increase": "increase",
+    "decrease": "decrease",
+    "category_breakdown": "Category Breakdown",
+    "daily_trend": "Daily Trend"
+  }
+}
