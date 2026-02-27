@@ -13,7 +13,7 @@ export class TranslationService {
 
   async loadTranslations(lang: string) {
     try {
-      const response = await fetch(`/i18n/${lang}.json`);
+      const response = await fetch(`i18n/${lang}.json`);
       if (response.ok) {
         const data = await response.json();
         this.translations.set(data);
